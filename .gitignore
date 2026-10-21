@@ -1,0 +1,7 @@
+# Godot project and imported files
+rocky---your-personal-ai-companion/.godot/
+rocky---your-personal-ai-companion/
+
+# Blender temporary files
+*.blend1
+*.blend2
